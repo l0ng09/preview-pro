@@ -63,6 +63,7 @@ useUserTheme();
     opacity: 1;
   }
 }
+
 @keyframes zoomOut {
   0% {
     opacity: 1;

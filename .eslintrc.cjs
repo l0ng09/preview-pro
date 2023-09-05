@@ -17,5 +17,6 @@ module.exports = {
   rules: {
     // all rules docs https://eslint.org/docs/rules/
     'prettier/prettier': ['error', { semi: true, singleQuote: true, printWidth: 120 }],
+    'vue/multi-word-component-names': 'off',
   },
 };
